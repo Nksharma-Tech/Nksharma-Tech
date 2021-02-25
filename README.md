@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Out Of Stock (OOS)
 - 🌱 I’m currently learning NLP
-- 👯 I’m looking to collaborate on SLack
+- 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with detecting ROI in moving camera images
 - 💬 Ask me about AI/ ML or any tech related stuff
 - 📫 How to reach me: LinkedIn- https://www.linkedin.com/in/9990377790

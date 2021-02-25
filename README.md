@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Out Of Stock (OOS)
+- 🔭 I’m currently working on OOS, a retail project
 - 🌱 I’m currently learning NLP
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with detecting ROI in moving camera images
